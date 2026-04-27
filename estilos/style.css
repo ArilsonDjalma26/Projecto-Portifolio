@@ -1,9 +1,3 @@
-/* 
-  Variáveis para cores:
-  --fundo-principal
-  --texto
-  --texto-inverso
-  --destaque
-  --destaque-inverso
-  --fundo-card
-*/
+
+@import url(global.css);
+@import url(header.css);
